@@ -129,6 +129,7 @@ a.btn.dark:hover {
     position: absolute;
     bottom: 48px;
     right: 0;
+    display: flex;
 }
 
 .social-icons a {
